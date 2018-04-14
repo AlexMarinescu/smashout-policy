@@ -1,0 +1,2 @@
+# smashout-policy
+Privacy Policy
